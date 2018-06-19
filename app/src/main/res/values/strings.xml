@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BakeIt</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="main_title">Delicious Recipes</string>
+    <string name="title_activity_bummu">Bummu</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="intro">Intro</string>
+    <string name="servings">servings: </string>
+</resources>

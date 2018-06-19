@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">22sp</dimen>
+    <dimen name="card_height">250dp</dimen>
+    <dimen name="card_margin_5">5dp</dimen>
+    <dimen name="card_margin_10">10dp</dimen>
+    <dimen name="progress_size">25dp</dimen>
+    <dimen name="step_text_size">20sp</dimen>
+    <dimen name="card_margin_2">2dp</dimen>
+    <dimen name="header_text_size">30sp</dimen>
+    <dimen name="Player_height">200dp</dimen>
+    <dimen name="desc_text_size">20sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="player_height_tablet">350dp</dimen>
+    <dimen name="widget_min">200dp</dimen>
+</resources>
